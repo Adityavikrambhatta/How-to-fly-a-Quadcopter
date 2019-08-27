@@ -22,8 +22,8 @@ Continuous Control Task
 1. Clone the repository and navigate to the downloaded folder.
 
 ```
-git clone https://github.com/udacity/RL-Quadcopter-2.git
-cd RL-Quadcopter-2
+git clone https://github.com/Adityavikrambhatta/How-to-fly-a-Quadcopter/blob/master/Quadcopter_Project/Quadcopter_Project.ipynb
+cd Quadcopter_Project
 ```
 
 2. Create and activate a new environment.
